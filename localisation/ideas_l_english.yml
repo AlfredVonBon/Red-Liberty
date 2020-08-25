@@ -9,7 +9,9 @@
  #################
  #US matirel companies
  jeep:0 "Jeep" 
- repeating:0 "Winchester Repeating Arms Company"
+ repeating:0 "Winchester Repeating Arms Company" 
+ springfield_armory:0 "Springfield Armory" 
+ ford_motor_company:0 "Ford Motor Company"
  ################# 
  ################# 
  #US naval companies 
