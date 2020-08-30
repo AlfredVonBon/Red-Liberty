@@ -120,14 +120,9 @@ create_import = {
 	
 	#adding ministers
 	add_ideas = {
-		henschel
-		ig_faben
-		heinrich_himmler
-		rudolf_hess
-		ludwig_beck
-		gerd_von_rundstedt
-		GER_autarky_idea
-
+		the_loss_of_a_generation
+		faith_in_the_kaiser 
+		unpaid_war_expenses
 		#laws
 		war_economy
 		extensive_conscription
@@ -306,7 +301,7 @@ set_popularities = {
 create_faction = Axis
 add_to_faction = GER
 
-
+1936.1.1 = {
 add_ideas = {
 	the_loss_of_a_generation
 	faith_in_the_kaiser 
@@ -314,8 +309,8 @@ add_ideas = {
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
+ }
 }
-add_ideas = GER_mefo_bills_1
 
 activate_mission = GER_mefo_bills_mission
 
