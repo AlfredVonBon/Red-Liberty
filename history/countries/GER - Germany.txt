@@ -308,8 +308,9 @@ add_to_faction = GER
 
 
 add_ideas = {
-	sour_loser
-	general_staff
+	the_loss_of_a_generation
+	faith_in_the_kaiser 
+	unpaid_war_expenses
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
